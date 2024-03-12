@@ -1,0 +1,3 @@
+with h5py.File('../input/full_dataset_vectors.h5', 'r') as dataset
+
+DOWNLOAD 3D MNIST DATASET
