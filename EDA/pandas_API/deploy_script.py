@@ -11,8 +11,7 @@ import time
 """
 @author: Sergio Zapata Caparrós
 @date: 30/04/2024
-@company: Certinia
-DATASET CONSUMPTION. CHALLENGE.
+DATASET CONSUMPTION.
 """
 
 def fix_word(word, options):
